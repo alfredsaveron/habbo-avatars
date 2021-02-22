@@ -1,0 +1,246 @@
+/* Design & front-end by Marco Cuel (Bromarks)*/
+
+body {
+	background-color: #242424;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.clearfix {
+	clear: both;
+}
+
+:focus {outline: 0;}
+
+.centraliza {
+	width: 590px;
+	position: absolute;
+  top: 50%;
+  margin-top: -150px;
+  left: 50%;
+  margin-left: -295px;
+  image-rendering: pixelated;
+}
+
+input, select {
+	background-color: transparent;
+	width: 200px;
+	height: 30px;
+	padding: 0 10px;
+	margin: 5px;
+	border: none;
+	border-radius: 2px;
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.15);
+	color: #999;
+	-webkit-appearance: none;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+input[type="text"] {
+  width: 180px;
+}
+
+select {
+	background-image: url(https://images.habbo.com/c_images/album1584/X2035.gif);
+	background-repeat: no-repeat;
+	background-position: 176px center;
+	overflow: hidden;
+  position: relative;
+}
+
+input[type="radio"], input[type="checkbox"] {
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+	cursor: pointer;
+	display: inline-block;
+	margin-left: 27px;
+	position: relative;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+
+}
+
+input[type="checkbox"] {
+	border-radius: 2px;
+  padding: 0 5px;
+}
+
+input[type="radio"]:after, input[type="checkbox"]:after {
+	width: 12px;
+	height: 12px;
+	border-radius: 10px;
+	content: '';
+	display: block;
+	top: 4px;
+	left: -1px;
+	position: relative;
+}
+
+input[type="checkbox"]:after {
+	border-radius: 1px;
+}
+
+input[type="radio"]:checked:after, input[type="checkbox"]:checked:after {
+	background-color: #999;
+}
+
+.tamanhos input[type="radio"] {
+	margin-left: 16px;
+	margin-right: 11px;
+	width: 15px;
+	height: 15px;
+  padding: 0 5px;
+}
+
+.tamanhos input[type="radio"]:after {
+	width: 7px;
+	height: 7px;
+}
+
+.esquerda {
+	width: 280px;
+	position: relative;
+	float: left;
+}
+
+.direita {
+	width: 315px;
+	position: relative;
+	float: left;
+	margin-left: -10px;
+}
+
+.titulo {
+	width: 60px;
+	line-height: 40px;
+	color: #999;
+	float: left;
+	text-align: center;
+  font-size: 16px;
+}
+
+.tmais {
+	width: 46px;
+	line-height: 10px;
+	font-size: 10px;
+	text-align: center;
+	margin-bottom: 9px;
+}
+
+.tamanhos {
+	width: 185px;
+	float: right;
+	margin: 6px 8px;
+}
+
+.link {
+	position: absolute;
+	bottom: 10px;
+}
+
+.hotel {
+	background-image: url(https://1.bp.blogspot.com/-Lrc_o4XSWN4/VwsMr_2sf3I/AAAAAAAAAyk/yJaqrrqDOkooUiu-EOqt6Exx4eFu_4fXw/s1600/seta.png);
+	background-repeat: no-repeat;
+	background-position: 10px center, 176px center;
+	padding-left: 37px;
+}
+
+.fundo-user {
+	background-position: center;
+	width: 200px;
+	height: 220px;
+	float: left;
+	margin: 5px;
+	border-radius: 2px;
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.15);
+}
+
+.avatar {
+	width: 200px;
+	height: 220px;
+	position: relative;
+}
+
+.avatar img {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+}
+
+.menu-girar {
+	padding: 10px;
+	width: 80px;
+	float: right;
+	border-radius: 2px;
+	margin: 5px 0;
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.15);
+	text-align: center;
+	font-size: 14px;
+	color: #999;
+}
+
+.girar {
+	width: 80px;
+	height: 25px;
+}
+
+.seta-box {
+	width: 15px;
+	height: 15px;
+	padding: 5px;
+  padding-top: 3px;
+  padding-bottom: 7px;
+	float: left;
+	border-radius: 2px;
+	box-shadow: inset 0 0 0 1px rgba(0,0,0,0.15);
+	transition: all 0.15s;
+	color: #9F9F9F;
+}
+
+.seta-box:hover {
+	background-color: rgba(0,0,0,0.15);
+	color: #FFF;
+}
+
+.girar .cabeca {
+	background-image: url(https://1.bp.blogspot.com/-WsBLUqV4J3E/VslIiBgiuaI/AAAAAAAAEaY/wL3J5J7orFE/s1600/cabeca.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 30px;
+	height: 25px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.girar .corpo {
+	background-image: url(https://4.bp.blogspot.com/-rjclYO-iAHo/VslIiMDDQLI/AAAAAAAAEac/fyZLZ8y10TI/s1600/corpo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 30px;
+	height: 25px;
+	float: left;
+}
+
+.formato {
+  background-position: 76px center;
+  width: 100px;
+  margin-right: 0;
+}
+
+.so-cabeca {
+	background-image: url(https://4.bp.blogspot.com/-MqlEG2UdvEw/VzsRBhGEvvI/AAAAAAAAFKA/BH6MiiZzT14xlT4756a0wsezwvMkYPTawCLcB/s1600/so-cabeca.png);
+	width: 14px;
+	height: 19px;
+	float: left;
+  margin-left: 15px;
+  margin-top: 6px;
+  margin-right: -5px;
+}
+
+#bb {
+  display: none;
+}
