@@ -9,4 +9,9 @@
 </p>
 
 ## What's This?
-:compass: Simple Front-end Vertical Post Page (Edited) a simple to use repository consisting of only basic and easy codes, for example; HTML,CSS and JS :sunglasses:. Don't forget to Fork or Star if you like it. Also, <a href="https://codepen.io/MarcoCuel/pen/VaOzxe">Source in Portuguese</a>
+Simple Front-end Vertical Post Page (Edited) a simple to use repository consisting of only basic and easy codes, for example; HTML,CSS and JS. Don't forget to Fork or Star if you like it. Also, <a href="https://codepen.io/MarcoCuel/pen/VaOzxe">Source in Portuguese</a>
+
+<p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/271/party-popper_1f389.png"></p>
+
+<h1 align="center">Other Links?!</h1>
+<h4 align="center"> <a href="https://github.com/AestasFlores">Aestas Flores</a> — <a href="https://alfreddo.ga">Portfolio</a></h4>
