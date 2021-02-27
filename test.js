@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	dir = [4, 4];   
+	dir = [4, 4];
 	function HabboImager() {
 		var hotel = $("#hotel").val();
 		if ($("#usuario").val().length === 0) {
