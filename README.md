@@ -1,4 +1,4 @@
-<p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/wrapped-gift_1f381.png"></p>
+<p align="center"><img src="https://habbofont.net/font/usva/habbo+viewer.gif"></p>
 
 <h1 align="center">Habbo Viewer</h1>
 <h4 align="center">While this project is being done; used HTML, CSS and JavaScript.</h4>
