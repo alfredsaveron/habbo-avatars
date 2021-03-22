@@ -18,3 +18,5 @@ Simple Front-end Vertical Post Page (Edited) a simple to use repository consisti
 <p align="center"><img src="https://habbofont.net/font/straypixels/other+links.gif"></p>
 
 <h4 align="center"> <a href="https://github.com/AestasFlores">Aestas Flores</a> — <a href="https://alfreddo.ga">Portfolio</a></h4>
+
+<hr></hr>
