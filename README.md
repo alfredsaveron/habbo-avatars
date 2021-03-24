@@ -1,4 +1,4 @@
-<p align="center"><img src="https://habbofont.net/font/habbo_new_big/habbo+viewer.gif"></p>
+<p align="center"><img src="https://habbofont.net/font/habbowood_big/habbo+avatars.gif"></p>
 
 <h4 align="center">While this project is being done; used HTML, CSS and JavaScript.</h4>
 <p align="center">
