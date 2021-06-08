@@ -14,7 +14,6 @@ $(document).ready(function() {
 			var habbo = $("#usuario").attr("placeholder");
 		} else {
 			var habbo = $("#usuario").val();
-		}
 		if ($("#objeto").val().length === 0) {
 			$("#bb").hide('slow');
 			var action = $("#acao").val();
